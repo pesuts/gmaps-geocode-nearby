@@ -1,5 +1,7 @@
 # API Pencarian Tempat Terdekat
 
+**URL:** https://gmaps-geocode-nearby.vercel.app/
+
 API ini digunakan untuk mencari tempat terdekat berdasarkan koordinat (latitude dan longitude) yang diberikan, dengan jenis tempat dan radius yang dapat diatur. Secara default, jenis tempat yang dicari adalah "museum" dan radius pencarian adalah 10 kilometer.
 
 ## Konfigurasi Lingkungan
@@ -8,7 +10,7 @@ API ini digunakan untuk mencari tempat terdekat berdasarkan koordinat (latitude 
 
 ## Endpoint
 
-### `GET /geocode/:longitude/:latitude/:type?/:radius?`
+### `GET gmaps-geocode-nearby.vercel.app/geocode/:longitude/:latitude/:type?/:radius?`
 
 #### Parameter
 
@@ -20,7 +22,7 @@ API ini digunakan untuk mencari tempat terdekat berdasarkan koordinat (latitude 
 #### Contoh Permintaan
 
 ```
-GET /geocode/110.3696068/-7.7495904/museum/10
+GET gmaps-geocode-nearby.vercel.app/geocode/110.3696068/-7.7495904/museum/10
 ```
 
 #### Respon
