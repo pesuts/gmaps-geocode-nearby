@@ -1,0 +1,275 @@
+{
+  "data": [{
+      "id": "ChIJickTkPlYei4RM0P_uCXblio",
+      "url": "https://maps.google.com/?q=place_id:ChIJickTkPlYei4RM0P_uCXblio",
+      "name": "Monumen Yogya Kembali",
+      "formatted_address": "Jl. Ring Road Utara, Jongkang, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581, Indonesia",
+      "rating": 4.5,
+      "total_ratings": 13604,
+      "location": {
+        "lat": -7.7495904,
+        "long": 110.3696068
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZnW5o2_8YhJHYpUWk-ejW-YKE5aPn-GU1ig9NikPxYNHDL4FrGR4piDrv2RSbUjsyaJlou-Sxj5fb7aJeaNzuDdh14AyWoIt4aTMikwRsG9AeoVpmsr3_iemTTsKuhrarxDhThT4wIcXaLUIFXm1Q1b8ew5ZI4xJn9d-JeQNeSisT_z&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZlE1Q8dez-HGF-02u3Id4Msny1uCoHeiTpan_cLz3yP6XsquFnupa4liVgRyCSnVW4kVdfpsWs281UAi0PhcPGdZfVkBhYAwKlRogDuskON41KsZ9ys8-C3zq9WM6re_EDHbOAwoDceWvg6jEh5RK62FKyS0KgXsexNzYoW4bgEtiil&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZmtRPZxgwFyguZPMGHkAOYZSZRevdRQfV7Vv9fwkdwo5VTMRm4rQM4zg3FODIrmwIKtU0y80OgKRFJ8GQ1TEdkxDhHvaOS4NXsXj5AHZNNiaPb1zLsgBkRX7MCeFcG_u27rm62CX9jaGA3W6HxhByPSMsnJEBSjVUQHrHuid4uyWYsZ&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    },
+    {
+      "id": "ChIJ6bbSsEpYei4R6SX2gak57D0",
+      "url": "https://maps.google.com/?q=place_id:ChIJ6bbSsEpYei4R6SX2gak57D0",
+      "name": "Museum UGM",
+      "formatted_address": "Universitas Gajah Mada Blok D-6 & D-7, Jl. Sagan, Sagan, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281, Indonesia",
+      "rating": 4.6,
+      "total_ratings": 216,
+      "location": {
+        "lat": -7.7740505,
+        "long": 110.377893
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZmE3T9eKItk1zsXT-pU-aEXBh-WkOIfdvfUcLrhTCD94QRgb7gjO9RJ9jpF38yB8IuWUqjB508zvHkYStdNfH3mGve1mXmX8ndYsu5O7R2m80VJV-3VjK-iRCioJMArUPnU4fNunvWZI6fYCT2TfcnNcGLnp7fznCRZUrfxC-sTcjG5&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZlgawtviMUJA1-QZpKeFBzudR_2Ukw9Swtpt5ZbrxzaSHB7EZaJkc8AUqnW45Oa1IJ7rLZQ0XcjDJl1QvPYYdOA_2hMzURtGQI7z_1o5Djv3kHFamrONw2PPsbiNFuopxf2MRl3AM4X4LNUMg2G5vfruGr40dsmXsg7QstRRJ4F5aF7&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZkGKZ2BJteVF275vJP8ZcvPppcIWPGqzRh660Sjb95giFvzfqflDUQFFX6MNDM2xaj584An2kZtxcMPPrnq0VdwjOisByQYwnGqUTPuQmIOUn8RVU_t3jbCAsdNQeiASyGVtpAkUHU-p21sMzoKNLMVkGRX-atU-PvxV5sj03OXrx1f&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    },
+    {
+      "id": "ChIJlaFGdTRYei4RiQSq2gaVOrI",
+      "url": "https://maps.google.com/?q=place_id:ChIJlaFGdTRYei4RiQSq2gaVOrI",
+      "name": "Museum Dr. Yap Prawirohusodo",
+      "formatted_address": "Jl. Cik Di Tiro No.5, Terban, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55223, Indonesia",
+      "rating": 4.6,
+      "total_ratings": 103,
+      "location": {
+        "lat": -7.780130999999999,
+        "long": 110.373935
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZl_68vKqrXKf86Unv6iBOL588lrtcvFldUUAVBlFrrsrL5e5jwiXV86uCNsCIdFc411P6MpNt0jWueUTv3-cwv7T7FDFX2XpgbyyEARFDYNLO0TORV7n3_um_SHr821xVLGRiIXivMbzZ-72DMwzMJ5F_IFQs_NzaDRXJlJwzV4ZTFf&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZmdGwtThc9BGAFXS3yiTmiYonz9zJMwWSL35O7AAqnXlzMQUENYR0aM5ITSDeWP7TcfiJO9kbfdkLPKzAaUIupsID9ahL_Ti03XttU6Fz-kNn4BMKRS6tw3-xoCcwfmtTiFAJSPYh4wo-YWyMwP9T0AzhQDEhtzAWUJ-cPdUdU9y0or&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZmvE9iVpR_s1YRldbtyljAqoDNEPBFb4f0UeQJDMeKEsjpvYk0EF6B8mklP_lu1d7gM7YT_-9YsJxTqkMR-Qxnd98p0FkLd9FCvtDBIEv7qu8gqY-Oajtpx3W5btmECzHLz02bA7T5hE_zrTMADRUvhVA3ebqOhS1eMAxibctuDg2ln&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    },
+    {
+      "id": "ChIJ-7GOdS5Yei4RXUIxES4UmhQ",
+      "url": "https://maps.google.com/?q=place_id:ChIJ-7GOdS5Yei4RXUIxES4UmhQ",
+      "name": "Museum Sandi",
+      "formatted_address": "Jl. Faridan M Noto No.21, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224, Indonesia",
+      "rating": 4.7,
+      "total_ratings": 1706,
+      "location": {
+        "lat": -7.784554900000001,
+        "long": 110.3711548
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZktK9led3hanz8rJoFN9g_Uc-GYVd07JCCeRrxWK7vxMirJNIJbCUMLSzzBcczfqK5ZbpyMZ3pVm4OD-gZW1dx0XJcEpjbcbe51u0MrmNNDjuYyA_bwozjslW1z9A-2NqNNZvryqBxS6psYGkS0KVr3_-9UbZHahkjZK1P3Vfz3-pd-&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZnadYnjib9LImi_uFI6JrIuvrMOs2P3FNq-6lz7GxUtIOl8Kq5WfKfWLa7jM2croioO4Iff-vsNzmxKrg1Qy13FvrUaKkrT68gv2rTzM6Uv5QYKvteaA_ueENr_A19iTs8Zbut1SjKPHm8Vlmu3FOxpu-lSPITFCelveZFH2vYAx5hy&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZkqw0T_FdfMOeFu0EjYBqwAgJNHclvnduov70nXzqJFzKkvQdU3Lzy4MYENJj4YJPQ32mf4mPvXpIfNKrnTX-xIWEMxMJsl4i2BsCFpxYUnjr6HYTzApdRpE8CpuycRNN0YjuLHxok4rjy9k7JVq8V6USmTQlUn8xML30Bxl2RVIxb0&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    },
+    {
+      "id": "ChIJfU6GqTNYei4RtM56PmctyoU",
+      "url": "https://maps.google.com/?q=place_id:ChIJfU6GqTNYei4RtM56PmctyoU",
+      "name": "Museum TNI AD Dharma Wiratama",
+      "formatted_address": "Jl. Jend. Sudirman No.75, Terban, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55223, Indonesia",
+      "rating": 4.7,
+      "total_ratings": 799,
+      "location": {
+        "lat": -7.782924,
+        "long": 110.375582
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZm6VeUnA-DNWaXfZhBx2908h_dEE3gwCanOIWza5Cagc1KEz_yiBrCmUmv10z1sq0XpQg7S5BRHp2H-l7-7wTIHBMrnNSLE0qV1uEyFOGdeEet7CffGz9SFFdhAmO8Av6LOsttnlErZm8-rtj1ZgRQdbVJlssC14dgRO3IMln6NXaI4&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZnbBpWK6KnbpgvvONgg-jbMSg4B1Zx5EwhIqSA-WsioxV72jDHHSek47ht6mQH13qRsu60svdxL8SIVfIxffENJa9RVlTizoeJICMedM8QPB7G7u99c2ewYYEl5uUbbC0uRiV18jcKyNnYM1ldEYh4p7hC5nF2SKSsMqZVtmdEsihB7&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZmQX859e-iMKqSsQfmOsGOGadoQuZdKSf3wuoORItYAp1yCBT5wgC9wtQyw7hcZIJmQ_d-prSH2hax5pGJ3xmVSiJi0TFEHnMLJpTTYS0_GaVhbzMUDGEgzo3DIWE4qzf8omb8lH_NBO6gtLZmjKPIn_3a3_Vh1s4vrZy2Cqj5mXJi3&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    },
+    {
+      "id": "ChIJjdR9pvdXei4RibBTbifSMzc",
+      "url": "https://maps.google.com/?q=place_id:ChIJjdR9pvdXei4RibBTbifSMzc",
+      "name": "Taman Tino Sidin",
+      "formatted_address": "Jl. Tino Sidin No.297, Kdipiro, Ngestiharjo, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55184, Indonesia",
+      "rating": 4.7,
+      "total_ratings": 271,
+      "location": {
+        "lat": -7.799512499999998,
+        "long": 110.3449674
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZlm0J7xTvh2dbAWdW-5FKb03CKK3NNKMfRp42VxIhRIAXdh14wedV2sVSO4POr-uFespWo9zi8taHtG1To-wW1GY9styaEXtKLApMbRAzbqz-Sv5akMYRBUF65RPlPgImv_nXR44XO2bANCqrpSrWN5iXTi6JE2GOp7OGSy3TEPDbkB&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZk12zW6I6zwIPanOXeM3z9qaVBW3paKooH6eGJ9Lm1gKhhym4WgDcz9zFbxKoKScW3cRkPtFC2RWquvNdyC5WVDMtnCtUZZ3yyXhUYrFWzj1RXKUI1ITvFO4lxA_BdcgtLnEleUhOVxF6K5XsJKICY2cgswye_7S9zj_jZ7dXPYEm_p&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZnTtFpPcPvRGeSxP6GN0_yuISGgi0O7HZl0ZR6-SiKjyI5oae5rzOn0ARE7cb1-3jfX33pAF2JAvornekaIsEAfu-dZi8kBrBJmJ7CNFYNywq-vGbpDDihu-uZ49tNQbfZdPncLTeHRgv7yJePLhKz1l3oOp6yjcv2PNIzFy5rJN4Fk&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    },
+    {
+      "id": "ChIJEVkmj_RXei4RqCYQIG4hc0M",
+      "url": "https://maps.google.com/?q=place_id:ChIJEVkmj_RXei4RqCYQIG4hc0M",
+      "name": "Maritime Museum - Jogja",
+      "formatted_address": "Jl. R. E. Martadinata No.69, Wirobrajan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55182, Indonesia",
+      "rating": 4.4,
+      "total_ratings": 225,
+      "location": {
+        "lat": -7.801140599999999,
+        "long": 110.3493008
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZmQ6ZxPnFbfsirylzBbe3APEDmbPYbNUOk84AKuZAr7NfQtVn6uk-PbEVa3iLC5TL8fEWXcDQOBjBHwrIwgDVrZj_vlR9yxTxxVCTWLOv7Gb1M_FylgMerAZRLYaJYTHyf43wxVYehCWbNxJ43JZ3nxQLod6pNHg8OGrAedCvJM5g7H&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZn-JEXIa2fcmRdr9TG0W3n-55a44EHUxbyuy-RZaoFLavzzgYx5JDF1-bRp6_O0RZaqwL6tYAcs87vDufBI0FvjqmKPK9PVHmwM3C8lbgzp2VrCLDvwI-9_v_tlM1cVc9wedpyfC1miHn1bf48HmlBfJZHeg5OC862ff4uzxMWp0vSd&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZkADu01Cw3sSniYmoEw0RKl7g7Hkn8-dy-yBR2g3BhlQxVliyhI7CKyQUCMOf0veqCmrP_hgMxyVmzN2Fu7kVFm_aEPgmny1gYyFXU7JV94VXaSB808N1EJY7sria4NqeJT4goU_YsKiiEkXCgU0SEwVcEbF1fFrdiwhnwHWgXLoOqk&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    },
+    {
+      "id": "ChIJz-6zwIhXei4R-J8qI-AcYbk",
+      "url": "https://maps.google.com/?q=place_id:ChIJz-6zwIhXei4R-J8qI-AcYbk",
+      "name": "Vredeburg Museum",
+      "formatted_address": "Jl. Margo Mulyo No.6, Ngupasan, Kec. Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55122, Indonesia",
+      "rating": 4.6,
+      "total_ratings": 18009,
+      "location": {
+        "lat": -7.800293000000001,
+        "long": 110.3661642
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZmNRms36xaFdPKw3eAQp_tu2NZIgIzbOyRxFzb6o2Jjv2ovtEi2cIVdtrIVVgvt6PefNarPMM8iqlWzCT4p_uiJ18ahfwV4pT-kCI7KkZPAe4cy-kQ897WdAJi1OA29rj0CCbm3mC3q1TkoHbBtPitNZikdCyDdBXFH1Swccg33-VIf&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZlOvS28VfNSbbpCH3rQdP5GFCsA1EPE48RnOyHYYQ7rxz67Vu1mE65ySDtJn3zQImrDtZy8Io6_DHEq_OL1FvRK03CroKQiohUDP-P_W3-vpdbYt_KZ8zY7sEtfdfynrUz-URbCat2SVMB2zBBcFpfjmX8bBAHYpmwTZtq8612XFjE8&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZl1FalM1IsSYABZVDf7M9CYGesC0p7sYP39XHtUqveHD4kf8VTdS9DyrBHCr-MgENi-AmTQOhfdt8iH05otoU1wIGDX3quOB9daWIh5Qg6G5NZOw0h2Lj6nGi5FyHkIUekIuKh7mPyJwOzVyKsCzag5iAMoh3Ku0L5-Q8dCzBW80LNT&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    },
+    {
+      "id": "ChIJTwoHg49Xei4R7sU-xBpDEJ0",
+      "url": "https://maps.google.com/?q=place_id:ChIJTwoHg49Xei4R7sU-xBpDEJ0",
+      "name": "Museum Sonobudoyo Unit I",
+      "formatted_address": "Jl. Pangurakan No.6, Ngupasan, Kec. Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55122, Indonesia",
+      "rating": 4.8,
+      "total_ratings": 5947,
+      "location": {
+        "lat": -7.802333299999999,
+        "long": 110.3639441
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZlMrPVTo0qW9D7VvKyKAYPxtnKjP9J7ED3QyzfAs0E6JCuG2eNFfIJmw6SeNsQjCUX1oj1LERUYI1EBONNi4nzAyI_kWZZbt6u2e7YSudXckmlz6cQJODo8FnBlz491rQjw7Job_povumIj17RbJkP6u60Obp5CQco5DiEUaUIaSJZa&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZmoKVAyDMBtI2QRPZSfZ75B40CLOvo1bLWsz9A7KTvmMDtHoETYM41JnG7ULrH9Bmsum5eAmw0dXcT6XnnzwTq8FUnD5tKdHaGszsPJlo8QMiI2a-7lqo0wBxO8cfEFFt30zTwfCUuvT0sw_EnxmEqBcxSDkqA7_7mS9qTHSkDE2QGl&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZnxp0OLGenzkIb_Bi9wxjF2xLJEZ01pdd6_SlnQjkauWVchy-cokAzdoEGEE2IZylcqGpJXHA5XcMzZlLaGSSkxylup-6SxAhhrznr6LpeHCOCArabFFNy73HxcYcVoT7hNtPnOWyQruuneE1m1U2doV04uFN59zlsA7PahGcjnBWDh&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    },
+    {
+      "id": "ChIJ8d36w4NXei4RCw_UTcqeZMk",
+      "url": "https://maps.google.com/?q=place_id:ChIJ8d36w4NXei4RCw_UTcqeZMk",
+      "name": "Museum of Biology UGM",
+      "formatted_address": "Jl. Sultan Agung No.22, Wirogunan, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55151, Indonesia",
+      "rating": 4.5,
+      "total_ratings": 490,
+      "location": {
+        "lat": -7.8018633,
+        "long": 110.3743934
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZl6tmFNFP48scFZ7WpCIc5tnHMtFOesPNjJeO7qBz94hCHAiyGYXCuJCsDF3zBbu1IEt6Y-40pkEVaHPVkQV20qHt_YGDeIe58cG9QDFahCN_6atHPRP-b_c8n2RCiV9aU9frciZBeB0CiWOh6tQI7BU0YoXF1_B0O6IEHYDHYqhcQL&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZlufNHbK7d-noaDTJ49iPtCLQbaLA5NJyXm1TwyqXJUUYJy771vkqsAVjjfA3Nfj-hGNWN9SIn3434ZvJFHl41d8KPG96SEb4JNWfYBFQs8JfQKlAmUBjdl0qFbR4f7vSyVlvor7ZMt-aw6kIG4BAkS8UAnLIvM1HRJA3xmOwvllZ6d&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZkCrbsSs4HlA_R5VeESoFpLubra5HAkm39osInlwT7Nsrj2zrqGR78JfpvDwfwbR-bLjZv9T9FOTQcBpX6eKBYf6ONXwAdbMcz4QH6QvU8dxCXgcRjBRx88AcCPDU7VxbQ_T5UWz8TsOCIZaPYju0ASUk1Ts-TsViqiyBMtSnXWYomN&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    },
+    {
+      "id": "ChIJv6s2zoNXei4RBa6iCMKOA-Y",
+      "url": "https://maps.google.com/?q=place_id:ChIJv6s2zoNXei4RBa6iCMKOA-Y",
+      "name": "Bebadan Puro Paku Alaman",
+      "formatted_address": "JL. Sultan Agung, Puro Pakualaman, 59XG+WFG, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166, Indonesia",
+      "rating": 4.5,
+      "total_ratings": 245,
+      "location": {
+        "lat": -7.800177499999998,
+        "long": 110.3761997
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZkTnE8gBN28IclG_0zl2obBhG2YaQ2uO1peEFeDrTZMiA7Co-nkbH2XrDsogcqBVy_j_K2CTaTB8nTPbv2b1hy8mg0tdtpADp4J7b24Cg2G9Is66hQb1RqeosNMwQWJv_kLFhAVvPgAYDuSQD5nhKNC4OMCgKoYzvlj1kymd6XbPhHq&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZkNLsZpe-fMkvP-XL45CYUM9BtBrKBBiVhpYGlqfE12mStCivxXyr7E6Hz5THSlWwDcgEC-SkXgMqbUujNXz83P_Uyrs-JxtWTl_fTo_qC-arv5Y4OAh08oEGOSC4sy9EZeMQ8RXlK1bByGWwGZTcMx2XrK4WIHWwe1yNkZJ9m-4Xvp&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZk-KOhiHGGaBnMANMPQcmNkZNWhA4byEcRY9f087L_bY8MbnZNeMjs9hvaQvDkHWP9pgKEexBbO6pu6IA0AdsB3bEo0smke8W3GedZOycdkt4Qs15pK8xfLVaFKAybh_dW_8C4hCIQyKqCcsWOQGkKqpKKUA1ctMz1QMcxFyf-7SUDm&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    },
+    {
+      "id": "ChIJu8qhOY5Xei4R5tdjgXsF0j8",
+      "url": "https://maps.google.com/?q=place_id:ChIJu8qhOY5Xei4R5tdjgXsF0j8",
+      "name": "Museum Wahanarata",
+      "formatted_address": "Jl. Rotowijayan, Kadipaten, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55132, Indonesia",
+      "rating": 4.7,
+      "total_ratings": 1181,
+      "location": {
+        "lat": -7.805466999999998,
+        "long": 110.363062
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZlvjLWFHdxGEP-Qh2qqfd5mj1gLuCr7UdmXxHsCoaVfN-2PVeIV178k3m2X0W7zyOzZuZsMH0HGVNpOSCVuKpk8wjfstBcxKmYKkF-WxakNYbWSwLic_SLjR8AlJetLy0oJA2FYMrj5Fimc5sPWQxbJrj14q9dSGny4tTsloLL7JqTp&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZkJes0g4wdZVpkZYyVkd5Z0Wj2M5jqkDbq0mqvdraoNTTK6MaOgoWqPZy9YKHFgtNSpE0_wK-x2qXyq-MRh1Eab3GtQzgzpf4S3u0kuBKqjBAXajmER-GD7pd33iBrW4v5f7mp3IlVN3Bgxmr5DgnzOENqtKaTN9OHu3IREKPpbgtRC&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZnbIAVLiD5D4pvPZzkfF7kBaCeeakM4oG-BDnQkRO_HFqsg7yGhfUGSlRKIbrZLvlVDygNtrqgNlRXsq4_WUYpDcL_MkiSS9HnXy7w1U-3aEiBFVdUO5qUNXLIiBorSNmwdy7EX_N0gPqixS85UyuWUy_1L2aLWcKROP4s1cRYDcS5e&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    },
+    {
+      "id": "ChIJXwjjQJxGei4RkdbdZVop30I",
+      "url": "https://maps.google.com/?q=place_id:ChIJXwjjQJxGei4RkdbdZVop30I",
+      "name": "Museum Sasmitaloka Panglima Besar Jenderal Sudirman",
+      "formatted_address": "Jl. Bintaran Wetan No.3, Gunungketur, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55151, Indonesia",
+      "rating": 4.7,
+      "total_ratings": 726,
+      "location": {
+        "lat": -7.8023523,
+        "long": 110.3754296
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZkBPJCJCy28DEkCmCAwAxgnQFlpaEDJNhMjod3-7qMNFZsXoFlE7bK7N4s4XTSm8VV0gltwmG573PFS9abP0P2f4OIVUPfSyQ1p55UvCziWXuZgcR0uFnPk0H50H6mIJ81cYz2WK39T-u8RlYoRN56QQtKGOoUZgsPZ1YCGYgmZoIh-&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZmWF-QbxrGRNMdp5sFsPiXyuTYbuWzU59yKH6v-xvWFgvv2gQddSYGIhxgNyHuCe7RcPeQCvODYd-8G5IMH_NA1hivbOgu5SwoBs9wY_oxA8tktX5OSXfOzG4ivjkrpM1YvmZYw2sRvsjqMAssU0aOzm4PNsOa6wrVak82zgxcU1iYG&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZnSQlOkA8vT0zgOAA3ZxtpU1UGcv3JCQVq86glhPy8uor7GqNmHfGjnqjjGayQqQxB08Avicbq3aXrEoh2o-aE1QUTE14APEsMs1tOd0celeqF3sora302rcY2BAXu4HP1_Y4Md_0gSQt402zpqyXUxsiKKnE65ovvQkjqQ6bZ0T_k&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    },
+    {
+      "id": "ChIJA_IE5ZJXei4RsJQZMczCG48",
+      "url": "https://maps.google.com/?q=place_id:ChIJA_IE5ZJXei4RsJQZMczCG48",
+      "name": "Ndalem Kaneman",
+      "formatted_address": "Jl. Kadipaten Kidul No.44, Kadipaten, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55132, Indonesia",
+      "rating": 4.7,
+      "total_ratings": 368,
+      "location": {
+        "lat": -7.808226700000001,
+        "long": 110.3570732
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZlYXg5cqwdUJkRAEKV8b0fbL1o-8027XLG8VxpebDO65ADLYWLhK59llZBbXMTu-ln_EUxsXT3Onj0rqPkG-Sw3yZV69WdiYuraMcQOLpwKqtwIGPcIm3TZ5sHRICt29qdIkaS6k85JOC-V8B0vMm9AD98kmK33qcHTKnVFbGOws_Me&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZmAAnFwsy8jciaJQuoPXtF1B2QsG0natkVN4cUWe34fnauSeKUiAEfIMR41tHLiba6JZs9CEJlVuQkqBtSgzLxtgPu3yO2Uy1UgABk7VKocI8tUk0CLB-jtDQX3ql9vOo8oqg8SCpO4NWv1-89DjlGjoT-_GOAVDlBPObgPJdDibive&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZmLf_MIjxSRsKydsQ04QrxGIci9s7im7o_LqfyQ6WaYJuIlbe-NlKBJzKFbitTSDcYvi64MSajOPHS4XgpjpeC23QcU3hln9guADIcRp3_y9h0kojyohAF__XwP_jbyyXy0VsjtSULv2ltpJn4PhnJT4O8LvDLDusL1FQSSNT1ppgJZ&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    },
+    {
+      "id": "ChIJvR1on8RZei4RSl1pJr9VnT4",
+      "url": "https://maps.google.com/?q=place_id:ChIJvR1on8RZei4RSl1pJr9VnT4",
+      "name": "Affandi Museum",
+      "formatted_address": "Jl. Laksda Adisucipto No.167, Papringan, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281, Indonesia",
+      "rating": 4.6,
+      "total_ratings": 2187,
+      "location": {
+        "lat": -7.782712999999998,
+        "long": 110.396397
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZlT8mL-Ds0J2ykEQ6g06nI6-ne9qrCPW_bIA3Pi8qXW-bBxetJk1Le39fh_C-TT_m4wZVV0C4uTzbhMIdRziA5ko91rpnW62NIVQ4BWSUnK4hFpPaoJ0uNS9w7IzJHMZX_3mrMjjuyQQPFggaMCVTJ8AcIkj-YbR5x1x5a43o7qr9qU&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZlpp7M-La3y2VO02kafCOT1LkpCYos10DGPrKiQuCX35GBYg6A0gEaHG_8VD9Q8FCKgxocpIuIuVHl1uYVAjfgMFOj21NYw3SUVUNuxEjvpWm8XhZBW1k0ExcK2g64mBgXMWpdLBqfU3g9yk5IaVQ9pSASJo9H-55iGd9LAcPWFmq3O&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZmI3skLUPKzIa8KH5nK1ebJO7XvHLk4r86IeCOux1FI_xWdJbaWLvHY5ob5fkck0dz8fhKvgfXh_MRZrQzyMVvRhu8lKUHfKWzcwqnYxNZGS4ZG3n6qgt1TSu3wyiiQiA5-AIovIRiJISHVtLM-2uEhQ5lKz8l08_c0c53fU2YyZRfX&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    },
+    {
+      "id": "ChIJy4o6oIJXei4Rh-9bNd9jWSo",
+      "url": "https://maps.google.com/?q=place_id:ChIJy4o6oIJXei4Rh-9bNd9jWSo",
+      "name": "Museum of Dewantara Kirti Griya",
+      "formatted_address": "Jl. Taman Siswa No.31, Wirogunan, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55151, Indonesia",
+      "rating": 4.7,
+      "total_ratings": 364,
+      "location": {
+        "lat": -7.805443800000001,
+        "long": 110.3784719
+      },
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZl8GqSlE8F2Jw4n1mOEVkZfmMCyz3NSd4BLnzNRNlXys2FBgS2cdsLJyx3C9j7pukJ5nFc-IOCx7TfXKBLuThKHnzCY2cpXc745N2OM_hoGJ71zEAPZxGttUA0_Imc1_V2glyIuE4kQBkoYbTqZJdxfA8o_iQDdZsqpzg-1pPlcjP8R&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZlLPI0SOW51BKwz76JCQEEaNL7hDFASSOk86tQv9OGQbOBpcNjp12UWIU7I3RA0rBBSAoWSB-FlMoev_V-oZa26OunyT9ip1bBeg7sG4f91VD8x4V7-kOMcHPDA_P5m2n5aczvsknsRzE9t-j8tkg3PaDYed6rKWNaIiqnvfLekW2BP&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI",
+        "https://maps.googleapis.com/maps/api/place/photo?maxheight=800&maxwidth=800&photo_reference=AUGGfZnvebn0fbGn4fQzYT52O7SjnQpWEWDBnAt0qRaHgHuP3oIHOULQuoYEMQqLgQWVIKayscvc7kK9ru_XlVeow7lBdW3s_sRbZV2fqh1KYCTQYnVcg3kRww7QEoCMYLe8vLEAeDP6i-8so3n2WHvk6bUx8Sj9zG-R1FO3JZ5-7SH3SZmT&key=AIzaSyALPBlg6RlnPX87yl4VMzYmg7ex3KORlOI"
+      ]
+    }
+  ]
+}

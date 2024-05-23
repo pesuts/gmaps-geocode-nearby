@@ -1,0 +1,450 @@
+{
+  "html_attributions": [],
+  "result": {
+      "address_components": [
+          {
+              "long_name": "Komplek, Kampung Flory",
+              "short_name": "Komplek, Kampung Flory",
+              "types": [
+                  "point_of_interest",
+                  "establishment"
+              ]
+          },
+          {
+              "long_name": "Plaosan",
+              "short_name": "Plaosan",
+              "types": [
+                  "administrative_area_level_5",
+                  "political"
+              ]
+          },
+          {
+              "long_name": "Tlogoadi",
+              "short_name": "Tlogoadi",
+              "types": [
+                  "administrative_area_level_4",
+                  "political"
+              ]
+          },
+          {
+              "long_name": "Kecamatan Mlati",
+              "short_name": "Kec. Mlati",
+              "types": [
+                  "administrative_area_level_3",
+                  "political"
+              ]
+          },
+          {
+              "long_name": "Kabupaten Sleman",
+              "short_name": "Kabupaten Sleman",
+              "types": [
+                  "administrative_area_level_2",
+                  "political"
+              ]
+          },
+          {
+              "long_name": "Daerah Istimewa Yogyakarta",
+              "short_name": "Jogja",
+              "types": [
+                  "administrative_area_level_1",
+                  "political"
+              ]
+          },
+          {
+              "long_name": "Indonesia",
+              "short_name": "ID",
+              "types": [
+                  "country",
+                  "political"
+              ]
+          },
+          {
+              "long_name": "55286",
+              "short_name": "55286",
+              "types": [
+                  "postal_code"
+              ]
+          }
+      ],
+      "adr_address": "<span class=\"extended-address\">Komplek, Kampung Flory, Plaosan, Tlogoadi, Kec. Mlati</span>, <span class=\"locality\">Kabupaten Sleman</span>, <span class=\"region\">Daerah Istimewa Yogyakarta</span> <span class=\"postal-code\">55286</span>, <span class=\"country-name\">Indonesia</span>",
+      "business_status": "OPERATIONAL",
+      "current_opening_hours": {
+          "open_now": false,
+          "periods": [
+              {
+                  "close": {
+                      "date": "2024-05-26",
+                      "day": 0,
+                      "time": "2200"
+                  },
+                  "open": {
+                      "date": "2024-05-26",
+                      "day": 0,
+                      "time": "0900"
+                  }
+              },
+              {
+                  "close": {
+                      "date": "2024-05-27",
+                      "day": 1,
+                      "time": "2200"
+                  },
+                  "open": {
+                      "date": "2024-05-27",
+                      "day": 1,
+                      "time": "0900"
+                  }
+              },
+              {
+                  "close": {
+                      "date": "2024-05-28",
+                      "day": 2,
+                      "time": "2200"
+                  },
+                  "open": {
+                      "date": "2024-05-28",
+                      "day": 2,
+                      "time": "0900"
+                  }
+              },
+              {
+                  "close": {
+                      "date": "2024-05-29",
+                      "day": 3,
+                      "time": "2200"
+                  },
+                  "open": {
+                      "date": "2024-05-29",
+                      "day": 3,
+                      "time": "0900"
+                  }
+              },
+              {
+                  "close": {
+                      "date": "2024-05-23",
+                      "day": 4,
+                      "time": "2200"
+                  },
+                  "open": {
+                      "date": "2024-05-23",
+                      "day": 4,
+                      "time": "0900"
+                  }
+              },
+              {
+                  "close": {
+                      "date": "2024-05-24",
+                      "day": 5,
+                      "time": "2200"
+                  },
+                  "open": {
+                      "date": "2024-05-24",
+                      "day": 5,
+                      "time": "0900"
+                  }
+              },
+              {
+                  "close": {
+                      "date": "2024-05-25",
+                      "day": 6,
+                      "time": "2200"
+                  },
+                  "open": {
+                      "date": "2024-05-25",
+                      "day": 6,
+                      "time": "0900"
+                  }
+              }
+          ],
+          "weekday_text": [
+              "Monday: 9:00 AM – 10:00 PM",
+              "Tuesday: 9:00 AM – 10:00 PM",
+              "Wednesday: 9:00 AM – 10:00 PM",
+              "Thursday: 9:00 AM – 10:00 PM",
+              "Friday: 9:00 AM – 10:00 PM",
+              "Saturday: 9:00 AM – 10:00 PM",
+              "Sunday: 9:00 AM – 10:00 PM"
+          ]
+      },
+      "dine_in": true,
+      "formatted_address": "Komplek, Kampung Flory, Plaosan, Tlogoadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55286, Indonesia",
+      "formatted_phone_number": "0821-3525-8282",
+      "geometry": {
+          "location": {
+              "lat": -7.721397,
+              "lng": 110.3485952
+          },
+          "viewport": {
+              "northeast": {
+                  "lat": -7.719998719708498,
+                  "lng": 110.3498768302915
+              },
+              "southwest": {
+                  "lat": -7.722696680291501,
+                  "lng": 110.3471788697085
+              }
+          }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+62 821-3525-8282",
+      "name": "Bali Ndeso Kampung Flory",
+      "opening_hours": {
+          "open_now": false,
+          "periods": [
+              {
+                  "close": {
+                      "day": 0,
+                      "time": "2200"
+                  },
+                  "open": {
+                      "day": 0,
+                      "time": "0900"
+                  }
+              },
+              {
+                  "close": {
+                      "day": 1,
+                      "time": "2200"
+                  },
+                  "open": {
+                      "day": 1,
+                      "time": "0900"
+                  }
+              },
+              {
+                  "close": {
+                      "day": 2,
+                      "time": "2200"
+                  },
+                  "open": {
+                      "day": 2,
+                      "time": "0900"
+                  }
+              },
+              {
+                  "close": {
+                      "day": 3,
+                      "time": "2200"
+                  },
+                  "open": {
+                      "day": 3,
+                      "time": "0900"
+                  }
+              },
+              {
+                  "close": {
+                      "day": 4,
+                      "time": "2200"
+                  },
+                  "open": {
+                      "day": 4,
+                      "time": "0900"
+                  }
+              },
+              {
+                  "close": {
+                      "day": 5,
+                      "time": "2200"
+                  },
+                  "open": {
+                      "day": 5,
+                      "time": "0900"
+                  }
+              },
+              {
+                  "close": {
+                      "day": 6,
+                      "time": "2200"
+                  },
+                  "open": {
+                      "day": 6,
+                      "time": "0900"
+                  }
+              }
+          ],
+          "weekday_text": [
+              "Monday: 9:00 AM – 10:00 PM",
+              "Tuesday: 9:00 AM – 10:00 PM",
+              "Wednesday: 9:00 AM – 10:00 PM",
+              "Thursday: 9:00 AM – 10:00 PM",
+              "Friday: 9:00 AM – 10:00 PM",
+              "Saturday: 9:00 AM – 10:00 PM",
+              "Sunday: 9:00 AM – 10:00 PM"
+          ]
+      },
+      "photos": [
+          {
+              "height": 3468,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/115671402130501877364\">Kampung Flory Jogja Kuliner Bali nDeso</a>"
+              ],
+              "photo_reference": "AUGGfZlhAk12lk_u8dKYxOtMt1vAK_olL5P9nhNt8BsGr8_k0ST8c7x1fTtQqPTo0PjzlnD6nbH3yD5dr325iK0QvgmDd3ooZvaw5-gUkom66cK4q0BccOoMZoRz9c67bW0fsSTKu0SNH3dGxH79ix7ne7Zx2K4TUB7ZcIcv45RPa2_YzPcU",
+              "width": 4624
+          },
+          {
+              "height": 3468,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/115671402130501877364\">Kampung Flory Jogja Kuliner Bali nDeso</a>"
+              ],
+              "photo_reference": "AUGGfZm7aYOtUsUDLXYHHTI20iDEDfIRL36gajcpapu0BEmlqb14r8UWriSzCVwwTn3YNkeriH3yoP9dzyGYTewm9gCpS0_gI9pdkPOOQ9jqXrQMxp9eZ1sdFRQHfkL6s2xmyujfbFkbTfbN1nCeDbkGDddGENJA7P0YmGaQfLCfQKrZQUAC",
+              "width": 4624
+          },
+          {
+              "height": 3468,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/115671402130501877364\">Kampung Flory Jogja Kuliner Bali nDeso</a>"
+              ],
+              "photo_reference": "AUGGfZm971n9mVfs2KLJmRC3Io4-4l43ljDlFPfy46aZQKY9s4P7kFDHno0mQKFtZlucitcdIh433L0y3BGp2XG3Y6sNXE5fIWe9pT1AFFi7E7wbTOCwGfHnBuWcQnOEGdznRySZQPmbXOntq9tXTImcREaCrQgOfPBJo8GUAX9fm6u92pVQ",
+              "width": 4624
+          },
+          {
+              "height": 3468,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/115671402130501877364\">Kampung Flory Jogja Kuliner Bali nDeso</a>"
+              ],
+              "photo_reference": "AUGGfZm09cwHd0qbvMj-Fil_vICN9wnbMyi4Fj-81o11_iS5gamS4q1Txu1l2gtNb8qLr5MZnkfN-ocZOBh6iqQcE773_JryDGjY8q3U0SZrIdvRD7SXzXyH8HYFXiM0fZisV6jHQ-Yv4wOaunN4XeblNtF4dzAPBY2VJgxyzkZV_R4mf5Lz",
+              "width": 4624
+          },
+          {
+              "height": 3120,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/118041690971587577713\">Bersama Insan SOLEH</a>"
+              ],
+              "photo_reference": "AUGGfZnm9lxOWJlRtKFpsQp-c1A9HwrNhVuYSclBxUcUzXSnKhCRJs9CJ_tDPnnDteLofh9_hblsUh83IWcgR0xcnitIWrRErsJY6H2iJHCZMKWussnYv-3Q_iN-hlgMvC-glFSwcfY9MOIWlTpgMq1PZMtjR8u-7GxXT730aIlXKZNfg9A",
+              "width": 4160
+          },
+          {
+              "height": 2268,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/118442651241341060687\">A. R. Hidayat</a>"
+              ],
+              "photo_reference": "AUGGfZlqBjC04rG4xOnjfHUzuqcR3wxlu2e1PqzfXUtX4RryCUQcQ2PhE7Hl3JG2E2ToE412xhqk8vkpuzeI-_mcRObiADDPS4z9x071xVbbri4r25f7Ez3jqPKgvDa16k1cAdRuCCIGZ82to2MjpfaKjgAYCCVTHnHY7tFufW3w8GcectsA",
+              "width": 4032
+          },
+          {
+              "height": 3468,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/115671402130501877364\">Kampung Flory Jogja Kuliner Bali nDeso</a>"
+              ],
+              "photo_reference": "AUGGfZn6i9w1MgswNZGrUAEN3DjRRH-ommEp3HIurMVd1AGrhU2hYqFdYElWWe3fFZ4bmc-8qFQH4olPc9qvYRl3oITP_VaU-1TPWVKkBDX9PdE5eEeTw3A3chUkADDkNxfY1cwlPJR0vxASNtS-2N9UxG2OSHbbxXhF8oFSZrDSj2s-6lwF",
+              "width": 4624
+          },
+          {
+              "height": 1080,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/115671402130501877364\">Kampung Flory Jogja Kuliner Bali nDeso</a>"
+              ],
+              "photo_reference": "AUGGfZmv6IszpZgRzg3cOkWbZYJ9VGyth0dG-5RT7bJAHfzSIe0sz-lRc3_x8jeDFajd8x7mieFxFThyaBCicjvoksN-SsfKVJL-fvqV10LLvlZTBW5Sp7A_RfA51eUKGjNPAMm9m-uiAqI7ruKFPKE7r6_-FlpVEJwayXeLiUsJQG7uSDyr",
+              "width": 1080
+          },
+          {
+              "height": 3468,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/115671402130501877364\">Kampung Flory Jogja Kuliner Bali nDeso</a>"
+              ],
+              "photo_reference": "AUGGfZmU8730NAqhXG9PTmxSzlm6Nw3keII6eyFD9c0AsYerARwSZLlQEzeBcZiyVyNnHndjaxWrtzJ0lBQ5G_dMM52UGk7XTndCrukwx8C14j-pggAyK26z1tzB7CZPyFrY7gnvhtNc8nrDWusDI-yDLcpD2s5Dz5CRKWuS5RksnMi2jokN",
+              "width": 4624
+          },
+          {
+              "height": 3468,
+              "html_attributions": [
+                  "<a href=\"https://maps.google.com/maps/contrib/115671402130501877364\">Kampung Flory Jogja Kuliner Bali nDeso</a>"
+              ],
+              "photo_reference": "AUGGfZlcWF75pWLPt8F3ydMXOxmjk7qO5otToGgz6pr1pRSphXswNVs0e16geqBOoJeU1GAF0MpdhcQfXgHd1ZnOJDLyaWzBaE04V0lFEtTDRpkbZBBVARG-mlHpCisj7Yc6ozmlGHlZj6dYFNCvlRgdJpLA6EAZAjlKnycnoeCyRURjQQ4i",
+              "width": 4624
+          }
+      ],
+      "place_id": "ChIJEeP4NLFYei4RjPeRux7809g",
+      "plus_code": {
+          "compound_code": "78HX+CC Tlogoadi, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+          "global_code": "6P4G78HX+CC"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJEeP4NLFYei4RjPeRux7809g",
+      "reservable": true,
+      "reviews": [
+          {
+              "author_name": "Abdul Alief",
+              "author_url": "https://www.google.com/maps/contrib/116758790934492214107/reviews",
+              "language": "en",
+              "original_language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdA5sbywYDfZSf2AIUJIrPKFKTbcyPpDVPOSdj8m6CDH7f6eYVCw=s128-c0x00000000-cc-rp-mo-ba7",
+              "rating": 4,
+              "relative_time_description": "6 years ago",
+              "text": "Nice spacey place, with several large hall that fit 30 to 40 people each... Outside there's outbound activity playground, children and adults can play. Also suited for groups activity or just for meeting, fishing pond is available for those who wants to enjoy some time. At the back side a rocky river with some small pathway to walk along, nice view. Food needs to be improved, but its ok, expect some waiting time for the food to be server. Overall we really enjoy our time visiting the place. Kids very happy playing and exploring the whole site. And its a great place for photoshoot. Definitely will come back again...",
+              "time": 1513775181,
+              "translated": false
+          },
+          {
+              "author_name": "Al Harits",
+              "author_url": "https://www.google.com/maps/contrib/114785651437190244032/reviews",
+              "language": "en",
+              "original_language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnkOALxDz7JgCcRH-jUdqKS-9TExb7z0KP8Ck4m41LoJMXjIhi=s128-c0x00000000-cc-rp-mo-ba2",
+              "rating": 1,
+              "relative_time_description": "a year ago",
+              "text": "This place is so ugly, look my picture and what the hell this place. There’s no table & chair are proper, and food just junk food. If u want to order main course, u must walk to another resto on the side.\nFor the ticket, u must pay 15k IDR / person. Bonus es teh, include terrible jembatan gantung\nSpot selfie is so awesome, many chili and little dirty",
+              "time": 1653793333,
+              "translated": false
+          },
+          {
+              "author_name": "Ika Sofiana",
+              "author_url": "https://www.google.com/maps/contrib/101091984802952903986/reviews",
+              "language": "en",
+              "original_language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGrMgGLh2mETnklNjefgccfupejREXFoVh6RlcwbUr_HqMWwscjg=s128-c0x00000000-cc-rp-mo-ba6",
+              "rating": 5,
+              "relative_time_description": "5 years ago",
+              "text": "great place to hang out with family or friends. restaurant with a natural rural feel. there are parks and orchards, fish ponds, river water tours, great for children. good food, cheap, only old service and less satisfactory.",
+              "time": 1532612560,
+              "translated": false
+          },
+          {
+              "author_name": "hubertus satrio yudanto",
+              "author_url": "https://www.google.com/maps/contrib/117185062837246784755/reviews",
+              "language": "en",
+              "original_language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVns-pcToF0VvUTcP7JJcoudiLP0Rqb5IOvd8SJXHrBLHkDRobQcA=s128-c0x00000000-cc-rp-mo-ba3",
+              "rating": 4,
+              "relative_time_description": "4 years ago",
+              "text": "The food is tasteful... The place is very unique.. Village ambiance...",
+              "time": 1559565961,
+              "translated": false
+          },
+          {
+              "author_name": "Makhrunnisa Dainty",
+              "author_url": "https://www.google.com/maps/contrib/102219689710935632816/reviews",
+              "language": "en",
+              "original_language": "en",
+              "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgkl81eT3JjoVjDAZ2kLReJJmfCq0c7ZaPhUfZoWP6mvkYe0Ue=s128-c0x00000000-cc-rp-mo-ba3",
+              "rating": 4,
+              "relative_time_description": "a year ago",
+              "text": "The food is so good, i order tahu isi, mendoan, ikan bakar, sup nila, terong balado n oseng kangkung. All foods taste are amazing. I would give 5 star if the bathroom is not dirty and the lesehan place is smell bad for a view minutes repeatly.",
+              "time": 1653675473,
+              "translated": false
+          }
+      ],
+      "serves_beer": false,
+      "serves_breakfast": true,
+      "serves_brunch": true,
+      "serves_dinner": true,
+      "serves_lunch": true,
+      "serves_wine": false,
+      "takeout": true,
+      "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=15624108741204506508",
+      "user_ratings_total": 1325,
+      "utc_offset": 420,
+      "vicinity": "Komplek, Kampung Flory, Plaosan, Tlogoadi",
+      "wheelchair_accessible_entrance": false
+  },
+  "status": "OK"
+}

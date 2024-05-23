@@ -1,0 +1,980 @@
+{
+  "html_attributions": [],
+  "next_page_token": "AUGGfZl12n24rJu3jeunJVxKz3qrw9Rr3zgaXqN_7DOrcmKUFhmElVRX1UQXoxcGAHrnTMD8FeB_SwMGS9cQvFaXPzO_vcadEVvYDyXo-MB37ikuSPmncUAjVPmyKVhdHg9xt55wZNNUXm1M9t-ZQ8pIjM5l0n4j5jYUqjndu-C_A-oTCYfAskxH351qJPQeuiq50xxkLHk2Lib2Xr0ejBEpFMIA4eWxUfvB21J5iesXhZOgaNVbCw30XhH3NPdmDxj0waCnnMnbiYEIRDacn4l5hH6hd4Vv1biLWl47iRdyohNx_chnfChOOjRQ9xgOTzuArPgz9uMEPwSUpQbvcHAyYDjaQZEsW0CpIaL8pAjvwrNwBRbVn2U5yl1WZcbUDzPzYUvI_GYsswoQjRTrknbSz3EbrnE179WHTukT5SWHCcraSSc5N8TvsLRekOlj",
+  "results": [
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.721397,
+                  "lng": 110.3485952
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.719998719708498,
+                      "lng": 110.3498768302915
+                  },
+                  "southwest": {
+                      "lat": -7.722696680291501,
+                      "lng": 110.3471788697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Bali Ndeso Kampung Flory",
+          "opening_hours": {
+              "open_now": false
+          },
+          "photos": [
+              {
+                  "height": 3468,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/115671402130501877364\">Kampung Flory Jogja Kuliner Bali nDeso</a>"
+                  ],
+                  "photo_reference": "AUGGfZnZkBbOjQVvllCS_JJGGgIs2GawtxBWMuO6RZtTPPHVGCVqvFEV7ouK3So4topb6XHqYNmVrScJ8vAsLKrFGmfQMXiMrAbeuewlNHabv9JFOl3uBa-0lfBzLAbmgRzBsAox3LGxyor1KYQXAjxQ9-xdntuXWxK9LNXX4uoHFqhnqnEi",
+                  "width": 4624
+              }
+          ],
+          "place_id": "ChIJEeP4NLFYei4RjPeRux7809g",
+          "plus_code": {
+              "compound_code": "78HX+CC Tlogoadi, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+              "global_code": "6P4G78HX+CC"
+          },
+          "price_level": 2,
+          "rating": 4.4,
+          "reference": "ChIJEeP4NLFYei4RjPeRux7809g",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 1325,
+          "vicinity": "Komplek, Kampung Flory, Plaosan, Tlogoadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.721339200000001,
+                  "lng": 110.3360561
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.719976919708499,
+                      "lng": 110.3373526302915
+                  },
+                  "southwest": {
+                      "lat": -7.722674880291502,
+                      "lng": 110.3346546697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "janko ndelik",
+          "opening_hours": {
+              "open_now": false
+          },
+          "photos": [
+              {
+                  "height": 1080,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/115230679114028433209\">Janko Ndelik</a>"
+                  ],
+                  "photo_reference": "AUGGfZkoFiZj1gdlU-OjT29htKe7yQeA2jEi2SDRz9tG_iqWwlr3wM5NYv0--MUBhbMFondnHlPFGQ_rnPzWfGiEU9qlIS9zaAeE7SaajtKimxBzKMNnw0sRLGG-NIjfFxQaHx-8Lbc9H-7Oy2UEWdVa1cug1Ap0pCWT64sI5bIf4S-UWvM2",
+                  "width": 1920
+              }
+          ],
+          "place_id": "ChIJsS7GcKlYei4RgF66xdSdLzc",
+          "plus_code": {
+              "compound_code": "78HP+FC Sumberadi, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+              "global_code": "6P4G78HP+FC"
+          },
+          "rating": 4.8,
+          "reference": "ChIJsS7GcKlYei4RgF66xdSdLzc",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 105,
+          "vicinity": "Jalan Purbaya Gang Puntadewa, Warak Kidul, Sumberadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.725516700000001,
+                  "lng": 110.3331822
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.724157319708498,
+                      "lng": 110.3345327802915
+                  },
+                  "southwest": {
+                      "lat": -7.726855280291502,
+                      "lng": 110.3318348197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Gubuk Makan Iwak Kalen Cebongan",
+          "opening_hours": {
+              "open_now": false
+          },
+          "photos": [
+              {
+                  "height": 2400,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/101305529751803069244\">pak guru sidiq</a>"
+                  ],
+                  "photo_reference": "AUGGfZl7Pibr1hVfpKqmCwdTQjryYReaEaTYaYc31RIrd9CkmuA_8cxSWIIzoEwlfm1FJN1ssnbIrLW9YV_BlpfwW2CDxdoLNux8vZxdwS-GWfrq-zMNGt6NvXlvC4UioA-BQVNEf6f3z6XCsD84bPUmeUnXxVJ-52b49PxY11pS9UffSSrU",
+                  "width": 3200
+              }
+          ],
+          "place_id": "ChIJOzSroKdYei4RdbCeg0WtUpU",
+          "plus_code": {
+              "compound_code": "78FM+Q7 Sumberadi, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+              "global_code": "6P4G78FM+Q7"
+          },
+          "price_level": 1,
+          "rating": 4,
+          "reference": "ChIJOzSroKdYei4RdbCeg0WtUpU",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 1041,
+          "vicinity": "Jl. Purbaya Km. 1, Jodag, Sumberadi, Mlati, Jodag, Sumberadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.7137277,
+                  "lng": 110.3469271
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.712348069708497,
+                      "lng": 110.3482883802915
+                  },
+                  "southwest": {
+                      "lat": -7.715046030291502,
+                      "lng": 110.3455904197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "irul Es Krim E40",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 4608,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/113560010844385069177\">Yuhdhi Agung Prasetyo</a>"
+                  ],
+                  "photo_reference": "AUGGfZnIZROYBvzZYZfeOUuuLJcPwbAtLKHiUXr-6XGQV3UjGqDFJ2ho5ivEgt3v9_K3n9ChDyj6lYIGVGRSC032R6SElLkGBSwEaGTtSpFrgdc0WyyqUWZDwoOu2t9zzc3CkXFa1B86lJi8RnMxM_5diPU60KgMIlJ8aM7gJXhHP4IBDfl1",
+                  "width": 3456
+              }
+          ],
+          "place_id": "ChIJFRZZwUxfei4RfUWDZeVdXrA",
+          "plus_code": {
+              "compound_code": "78PW+GQ Tridadi, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+              "global_code": "6P4G78PW+GQ"
+          },
+          "price_level": 1,
+          "rating": 4.2,
+          "reference": "ChIJFRZZwUxfei4RfUWDZeVdXrA",
+          "scope": "GOOGLE",
+          "types": [
+              "store",
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 11,
+          "vicinity": "Perum Sleman Permai 1 Blok E40, 55511, Panglikan, Tridadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.731196799999999,
+                  "lng": 110.3313293
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.729849369708499,
+                      "lng": 110.3326776302915
+                  },
+                  "southwest": {
+                      "lat": -7.732547330291503,
+                      "lng": 110.3299796697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Mister Burger (Perempatan Cebongan)",
+          "opening_hours": {
+              "open_now": false
+          },
+          "photos": [
+              {
+                  "height": 3120,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/103750112073074028276\">Switzerland Bite</a>"
+                  ],
+                  "photo_reference": "AUGGfZkfB4pZxYVvk9sIPxKS4VmONjiv23YViQyFwaqm2q4X9ZRoGWiJCXQTy4hJOmGExlM79asxPPzxQw-tE6M71CGm_GRj5G80pJ8Cii-mb-JNvrxy7rKqSiQTS1UoDcuc65zMXQbMHOGUSznMmccqeGZ1jGeabN7Jddz9q_chop7T6w6d",
+                  "width": 4160
+              }
+          ],
+          "place_id": "ChIJNUvirqBYei4RuFxUV2AWz8g",
+          "plus_code": {
+              "compound_code": "789J+GG Tlogoadi, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+              "global_code": "6P4G789J+GG"
+          },
+          "price_level": 2,
+          "rating": 4.2,
+          "reference": "ChIJNUvirqBYei4RuFxUV2AWz8g",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 377,
+          "vicinity": "Jalan Kebon Agung No.88, Area Sawah, Tlogoadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.7244803,
+                  "lng": 110.3432934
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.723141069708498,
+                      "lng": 110.3446390802915
+                  },
+                  "southwest": {
+                      "lat": -7.725839030291502,
+                      "lng": 110.3419411197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "SopBlegak Cafe & Resto",
+          "photos": [
+              {
+                  "height": 3264,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/110142208389627400620\">Hery Sugiyanto</a>"
+                  ],
+                  "photo_reference": "AUGGfZmLbB7Mo32XueQ-xWFsvqe1aF-w_u_IYGhK2v5utd55mgaf4BeqlJsWcwryuGy9eUkfvSgcRE2b_1x9ll3EqI-KmVZnxAQbHzYLBk6B-F447zWf-9apHG9fg2MvHxnk-gHYbN3vVRV6csue-3hc3S_LYuskKY-hwrTGHBldjGW379gd",
+                  "width": 2448
+              }
+          ],
+          "place_id": "ChIJSd_1RARZei4RkLWcoLrZ7U0",
+          "reference": "ChIJSd_1RARZei4RkLWcoLrZ7U0",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "vicinity": "78GV+683, Unnamed Road, Area Sawah, Tlogoadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.724267799999999,
+                  "lng": 110.3436723
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.722925069708498,
+                      "lng": 110.3450424302915
+                  },
+                  "southwest": {
+                      "lat": -7.725623030291502,
+                      "lng": 110.3423444697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Pecel Lele & Nasi Goreng - Mlati",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 1200,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/103376408606318380429\">Pecel Lele &amp; Nasi Goreng - Mlati</a>"
+                  ],
+                  "photo_reference": "AUGGfZlgTxUv7lauwKKVaSqPZFybAK3U4KE6WURjhDIXdK8Ca3KP5sBAcGYvhrzmMM_yBn-eUQZfmIpg-AHyW7EfEX29LY5k-r6gUD1tycwfHUSRrN1yuEU9BpPcoLeoN6NEYUIVb3MTqU85M2x9gr9ci34m9qw_NmFHkXIMuiolY13nS50h",
+                  "width": 1599
+              }
+          ],
+          "place_id": "ChIJEffvMLRZei4RCsLSX8ZuadQ",
+          "rating": 5,
+          "reference": "ChIJEffvMLRZei4RCsLSX8ZuadQ",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 3,
+          "vicinity": "78GV+7F6, Area Sawah, Tlogoadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.724184200000002,
+                  "lng": 110.343853
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.7228221697085,
+                      "lng": 110.3451545302915
+                  },
+                  "southwest": {
+                      "lat": -7.725520130291505,
+                      "lng": 110.3424565697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Omah seblak plaosan ( seblak prasmanan)",
+          "opening_hours": {
+              "open_now": false
+          },
+          "photos": [
+              {
+                  "height": 1080,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/105940886099333600362\">Omah seblak plaosan ( seblak prasmanan)</a>"
+                  ],
+                  "photo_reference": "AUGGfZlLmdB5E1T0ulXg6V9g2Kx-yn-rN9T9HmKjoeTN15hpMT1bxo9vF1xLzFrXZiAfBHo4inDXmbhYXp7RmC0IQaI-7TBMV7FUnYc1cxIwrrM2fGhvZkpCvHFASw4jnPPaBQvXK35PaUAeH9w3O2B7GF25IFau8K6Dksatqd6vVO03CNX3",
+                  "width": 1920
+              }
+          ],
+          "place_id": "ChIJhat3WLtZei4RU5eKizp0Idg",
+          "plus_code": {
+              "compound_code": "78GV+8G Tlogoadi, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+              "global_code": "6P4G78GV+8G"
+          },
+          "rating": 5,
+          "reference": "ChIJhat3WLtZei4RU5eKizp0Idg",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 28,
+          "vicinity": "Plaosan, Tlogoadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.724073700000001,
+                  "lng": 110.3447916
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.722725419708496,
+                      "lng": 110.3461437802915
+                  },
+                  "southwest": {
+                      "lat": -7.725423380291501,
+                      "lng": 110.3434458197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "sate ayam mas. Angga.",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 4128,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/115428941515847468171\">mujib abdi</a>"
+                  ],
+                  "photo_reference": "AUGGfZmEry7Ez91kL4nTvSlY1RjTe7Zk3pKeo3u0np_pa5xwXLmWHKqNIWl8qfn1-yG9QUrDeZklnBSphp0Bjdx26ZxDKVFI_CtOiLqFtdxt_zMHfllVpRIKuJidp2EZhDl26VIlDzzluQTfnf85jhc_Nq6mz3yUIiRktmpOY0907eqeMW2T",
+                  "width": 3096
+              }
+          ],
+          "place_id": "ChIJMeMPCt1Zei4R4CrEfk6_eYU",
+          "rating": 5,
+          "reference": "ChIJMeMPCt1Zei4R4CrEfk6_eYU",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 2,
+          "vicinity": "78GV+9WF, Plaosan, Tlogoadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.7250147,
+                  "lng": 110.3463728
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.723648219708499,
+                      "lng": 110.3476873802915
+                  },
+                  "southwest": {
+                      "lat": -7.726346180291503,
+                      "lng": 110.3449894197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Soto & Lotek Yu Sri",
+          "place_id": "ChIJYTWbgrBYei4RflnxrR6Ntog",
+          "plus_code": {
+              "compound_code": "78FW+XG Tlogoadi, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+              "global_code": "6P4G78FW+XG"
+          },
+          "rating": 5,
+          "reference": "ChIJYTWbgrBYei4RflnxrR6Ntog",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 1,
+          "vicinity": "Indonesia"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.724503899999998,
+                  "lng": 110.3463628
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.723158969708495,
+                      "lng": 110.3477476302915
+                  },
+                  "southwest": {
+                      "lat": -7.725856930291499,
+                      "lng": 110.3450496697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Warung Piwah(pingger sawah)",
+          "opening_hours": {
+              "open_now": false
+          },
+          "photos": [
+              {
+                  "height": 4640,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/114332738641289513714\">achmad fachrudin</a>"
+                  ],
+                  "photo_reference": "AUGGfZmRc-hACuiEZebHVKIHz9xD8Dfoi2jo2Q3SEbsVm1UvLhGACWZS2irmbd-rr3c1rMjhwi-fN3OTkhCHdi6BFMJvJxvd3e3d_qC-VsyZh2Orixeuz2t8vRyYw3FPRq3qM7IdCiuyKFwZ27BsWa53Mu1WPYV2An4FVeDjAJ-5c4CdbKAa",
+                  "width": 3472
+              }
+          ],
+          "place_id": "ChIJha0a-thZei4Re-D1ypgWgJo",
+          "plus_code": {
+              "compound_code": "78GW+5G Tlogoadi, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+              "global_code": "6P4G78GW+5G"
+          },
+          "price_level": 1,
+          "rating": 4.4,
+          "reference": "ChIJha0a-thZei4Re-D1ypgWgJo",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 422,
+          "vicinity": "Plaosan, Tlogoadi"
+      },
+      {
+          "business_status": "CLOSED_TEMPORARILY",
+          "geometry": {
+              "location": {
+                  "lat": -7.721372300000001,
+                  "lng": 110.3417619
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.7200442697085,
+                      "lng": 110.3431827302915
+                  },
+                  "southwest": {
+                      "lat": -7.722742230291504,
+                      "lng": 110.3404847697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Soto Seger Pak Man Klaten Pusat",
+          "permanently_closed": true,
+          "photos": [
+              {
+                  "height": 4000,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/101420145176672500484\">Soto Seger Pak Man Klaten Pusat</a>"
+                  ],
+                  "photo_reference": "AUGGfZlOMLDNz-DQqinB0_yxKg4nnncuOyC7v8g8DWPmLKpu-fMfKyavx0FmrSlgu_QAzraLG7__ODr8UzzLQtoEVr3GRKKnb6lsenmm-D4oSERQi6gQDyRdp8bLteHK5XQVwfnFlmNvNKXQQ0xopF5ueBVSbms_JBXC-lGG3adMpWtN9S3l",
+                  "width": 3000
+              }
+          ],
+          "place_id": "ChIJdQMlHKBZei4RbbfVl5phF2g",
+          "plus_code": {
+              "compound_code": "78HR+FP Tlogoadi, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+              "global_code": "6P4G78HR+FP"
+          },
+          "rating": 5,
+          "reference": "ChIJdQMlHKBZei4RbbfVl5phF2g",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 2,
+          "vicinity": "Sanggrahan, Tlogoadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.7237082,
+                  "lng": 110.346599
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.722370619708498,
+                      "lng": 110.3480184302915
+                  },
+                  "southwest": {
+                      "lat": -7.725068580291501,
+                      "lng": 110.3453204697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Dapur suka suka",
+          "opening_hours": {
+              "open_now": false
+          },
+          "photos": [
+              {
+                  "height": 1920,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/115081720926223289678\">rioriek official</a>"
+                  ],
+                  "photo_reference": "AUGGfZkMZYbfFHP3HUHRn-u1l3JyAcoH-tihx-WgxzkRsMYj2fvc3suKHXmVusv_4or6OP16TGUZia5KGpRyZoPnIz5_Pq1-l9tRkDFUgNVuiMH7PepIMFhO3GRHwufA2HcX-qnjqUHnJWr62pKpwYjfFmRf4uQfM9PjeKRKPVJqMp_vtj17",
+                  "width": 1080
+              }
+          ],
+          "place_id": "ChIJN9zpVzRZei4RI06hlp0gjkQ",
+          "plus_code": {
+              "compound_code": "78GW+GJ Tlogoadi, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+              "global_code": "6P4G78GW+GJ"
+          },
+          "rating": 5,
+          "reference": "ChIJN9zpVzRZei4RI06hlp0gjkQ",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 2,
+          "vicinity": "rt03 rw 20, Plaosan, Tlogoadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.7211939,
+                  "lng": 110.3421067
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.719826719708499,
+                      "lng": 110.3433932802915
+                  },
+                  "southwest": {
+                      "lat": -7.722524680291504,
+                      "lng": 110.3406953197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Warung Makan \"Mbak Yus\"",
+          "place_id": "ChIJVbrNGa5Yei4RqrPHqlDaVPo",
+          "plus_code": {
+              "compound_code": "78HR+GR Tlogoadi, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+              "global_code": "6P4G78HR+GR"
+          },
+          "rating": 5,
+          "reference": "ChIJVbrNGa5Yei4RqrPHqlDaVPo",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 1,
+          "vicinity": "Indonesia"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.723656800000001,
+                  "lng": 110.3470146
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.722322719708497,
+                      "lng": 110.3484082302915
+                  },
+                  "southwest": {
+                      "lat": -7.725020680291502,
+                      "lng": 110.3457102697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Kedai Geprek Terserah Ayam",
+          "opening_hours": {
+              "open_now": false
+          },
+          "photos": [
+              {
+                  "height": 720,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/101670127552177703514\">Geprek Terserah Ayam</a>"
+                  ],
+                  "photo_reference": "AUGGfZnJVUSZQ_nB-Pq-NBkOBBnEr1chb-y0nkMWtGKMlpnQtbGXSlScfdtLt8az4rkBlLBeU1W6ULs-TyGIZK3cMyz4ADMMUYtwEtXRjpoQwN37-ueGjEVxmqcPEzZBIlK-02jSx9l93y5WeyncmmRpOxVaRwVREZD0008kZJOZoMcaU8ot",
+                  "width": 720
+              }
+          ],
+          "place_id": "ChIJg_1pA_pZei4RLHihjV0OaDo",
+          "plus_code": {
+              "compound_code": "78GW+GR Tlogoadi, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+              "global_code": "6P4G78GW+GR"
+          },
+          "rating": 4.5,
+          "reference": "ChIJg_1pA_pZei4RLHihjV0OaDo",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 8,
+          "vicinity": "Plaosan, Tlogoadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.721560499999998,
+                  "lng": 110.3397831
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.720211819708499,
+                      "lng": 110.3411320302915
+                  },
+                  "southwest": {
+                      "lat": -7.722909780291504,
+                      "lng": 110.3384340697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Tahu Bakso Pak Pur",
+          "opening_hours": {
+              "open_now": true
+          },
+          "place_id": "ChIJXdg58f9Zei4R9W8M3jDk-4s",
+          "rating": 4.4,
+          "reference": "ChIJXdg58f9Zei4R9W8M3jDk-4s",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 7,
+          "vicinity": "78HQ+9WF, Warak Kidul, Sumberadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.721639399999998,
+                  "lng": 110.3459665
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.720299669708497,
+                      "lng": 110.3473203302915
+                  },
+                  "southwest": {
+                      "lat": -7.722997630291502,
+                      "lng": 110.3446223697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Lotek Bu Narti",
+          "photos": [
+              {
+                  "height": 3264,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/103016153461207691026\">Zarcowie Cowie</a>"
+                  ],
+                  "photo_reference": "AUGGfZl-ZPL2TqPdUXLPmevAHRlOFCZHZN2Qt2y-lH6w6Yydh9Gydy_XU9Tuf9xVV289iU4BX_MFLWPlFRkOQA8lmBJyCUokvkPwh66fEsqKWtOup9Fb10pX0ZYb0La3S6rIecTQ2BRvgrlcvTS6CYOhiHnd7nj_VIaQRnAGxKDHWGD4AL23",
+                  "width": 2448
+              }
+          ],
+          "place_id": "ChIJGwjiA4RZei4RqcZz0FLrf-I",
+          "rating": 5,
+          "reference": "ChIJGwjiA4RZei4RqcZz0FLrf-I",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 1,
+          "vicinity": "78HW+89W, Jalan Perum Sleman Permai 2, Panglikan, Tridadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.7234898,
+                  "lng": 110.3472919
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.722116569708498,
+                      "lng": 110.3485943802915
+                  },
+                  "southwest": {
+                      "lat": -7.724814530291502,
+                      "lng": 110.3458964197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Kedai Lesehan Hesti",
+          "photos": [
+              {
+                  "height": 2448,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/117866843644702460621\">Prima Ak</a>"
+                  ],
+                  "photo_reference": "AUGGfZlx1bkJDt_hMiWEbnkWIyFX8g6kEjE87DHqvWs8h0BB23dJg9-Go7EOe8O3zqGRR3GBRxDEG1BiioJAhMSibCIsGn-Ogg39VW3mUmbkhuKQMCMzBuGl1rBl6w0mn-Grg4F9m0xJ-dBhoQVxIe6CrXn5PethFSF7DknzjwSva1gbqg8m",
+                  "width": 3264
+              }
+          ],
+          "place_id": "ChIJkUMQMytZei4ROmbaOvq7qek",
+          "plus_code": {
+              "compound_code": "78GW+JW Tlogoadi, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+              "global_code": "6P4G78GW+JW"
+          },
+          "rating": 4.2,
+          "reference": "ChIJkUMQMytZei4ROmbaOvq7qek",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 13,
+          "vicinity": "Jalan Arjuna No.1, Plaosan, Tlogoadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.7211688,
+                  "lng": 110.3398159
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.719789719708498,
+                      "lng": 110.3411144302915
+                  },
+                  "southwest": {
+                      "lat": -7.722487680291502,
+                      "lng": 110.3384164697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Pondok Seafood Online",
+          "opening_hours": {
+              "open_now": false
+          },
+          "photos": [
+              {
+                  "height": 2340,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/110218680148581810519\">Deni Wijaya</a>"
+                  ],
+                  "photo_reference": "AUGGfZkmxIW-qFuCyuadXM80k8aNXe7-Alc32mLPC0I7ryWDswCi7ofSCXiQ5tkR8BU99_mJyo2-sZrddOQ_OhJfsc0L3ufMH8teaho5aE6SZoRe63Ql5JOA4B2EgKxBmHdYB31RHLPdzQUWJPBkFt8sDtb74-RI0Oavw4M5LQRf0lMnYEH3",
+                  "width": 4160
+              }
+          ],
+          "place_id": "ChIJlVOn6kBZei4RLgFKg9LtI50",
+          "plus_code": {
+              "compound_code": "78HQ+GW Sumberadi, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+              "global_code": "6P4G78HQ+GW"
+          },
+          "rating": 2.7,
+          "reference": "ChIJlVOn6kBZei4RLgFKg9LtI50",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 6,
+          "vicinity": "Warak Kidul, Sumberadi"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": -7.722729299999999,
+                  "lng": 110.347276
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": -7.721387569708498,
+                      "lng": 110.3486475802915
+                  },
+                  "southwest": {
+                      "lat": -7.724085530291503,
+                      "lng": 110.3459496197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Gudeg Plaosan Bu Harjo",
+          "opening_hours": {
+              "open_now": false
+          },
+          "photos": [
+              {
+                  "height": 780,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/108195925942918811597\">Adhi Yudho Pradipto</a>"
+                  ],
+                  "photo_reference": "AUGGfZlCbDENcSYW_wF0CyAqMtPm89w6XjipZF6vYufXcL5vK2FtFKah-yQ27ZyHF-SVK44D_74D48RiMsOyoC_bXMXtnZudjf9R5RPtuvKHfpwCDHkNuoK9xWTKVA1uyCmiRI7xqzSYQ_u2wB_6zOiSCbUEmu2ySQ_dH-fzFnImKLu2w1dS",
+                  "width": 1040
+              }
+          ],
+          "place_id": "ChIJKyCxzk1Zei4RlbAhzmfgJuA",
+          "rating": 4.9,
+          "reference": "ChIJKyCxzk1Zei4RlbAhzmfgJuA",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "point_of_interest",
+              "food",
+              "establishment"
+          ],
+          "user_ratings_total": 21,
+          "vicinity": "78GW+WW2, Plaosan, Tlogoadi"
+      }
+  ],
+  "status": "OK"
+}

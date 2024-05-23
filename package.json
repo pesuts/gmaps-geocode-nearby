@@ -1,0 +1,21 @@
+{
+  "name": "coba-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coba-api.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "coba": "nodemon ./nearbySearch.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.0"
+  }
+}
