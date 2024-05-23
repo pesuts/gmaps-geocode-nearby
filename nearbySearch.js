@@ -21,12 +21,16 @@ const app = express();
 
 app.use(express.json())
 
-app.get('/geocode/:longitude/:latitude/:type?', async (req, res) => {
+app.get('/geocode/:longitude/:latitude/:type?/:radius?', async (req, res) => {
   try {
     const latitude = req.params.latitude;
     const longitude = req.params.longitude;
-    const type = req.params.type || "museum";
-    const radius = 10000; // In meters
+    
+    let radius = 10000;
+    let type = "museum";
+    
+    (+req.params.type > 0) ? (radius = +req.params.type * 1000) : (type = req.params.type);
+    if (req.params.radius) radius = +req.params.radius * 1000
 
     const placesUrl = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${latitude},${longitude}&radius=${radius}&type=${type}&type=museum&key=${API_KEY}`;
 
