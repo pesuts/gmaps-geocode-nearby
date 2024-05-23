@@ -23,6 +23,7 @@ app.use(express.json())
 
 app.get('/geocode/:longitude/:latitude/:type?/:radius?', async (req, res) => {
   try {
+    const photoCount = 3;
     const latitude = req.params.latitude;
     const longitude = req.params.longitude;
     
@@ -48,12 +49,17 @@ app.get('/geocode/:longitude/:latitude/:type?/:radius?', async (req, res) => {
 
     // Create an array of fetch promises for place details
     const detailPromises = places.map(async id => {
-      // const placeUrl = ;
       const detailResponse = await fetch(generatePlaceDetailUrl(id));
       const detailResult = await detailResponse.json();
 
       // Check if there are more than 2 photos
-      if (detailResult.result.photos?.length > 2) {
+      if (detailResult.result.photos?.length >= photoCount) {
+        let imgUrls = [];
+
+        for (let i = 0; i < photoCount; i++) {
+          imgUrls = [...imgUrls, generateImageUrl(detailResult.result.photos[i].photo_reference)]
+        }
+
         return {
           id: detailResult.result.place_id,
           url: generateGoogleMapsUrl(detailResult.result.place_id),
@@ -65,11 +71,7 @@ app.get('/geocode/:longitude/:latitude/:type?/:radius?', async (req, res) => {
             lat: detailResult.result.geometry.location.lat,
             long: detailResult.result.geometry.location.lng
           },
-          photos: [
-            generateImageUrl(detailResult.result.photos[0].photo_reference),
-            generateImageUrl(detailResult.result.photos[1].photo_reference),
-            generateImageUrl(detailResult.result.photos[2].photo_reference),
-          ]
+          photos: imgUrls
         };
       } else {
         return null; // Return null for places that do not meet the criteria
