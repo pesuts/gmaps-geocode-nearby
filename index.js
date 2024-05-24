@@ -64,6 +64,12 @@ app.get('/geocode/:longitude/:latitude/:type?/:radius?', async (req, res) => {
           id: detailResult.result.place_id,
           url: generateGoogleMapsUrl(detailResult.result.place_id),
           name: detailResult.result.name,
+          address_component: [
+            detailResult.result.address_components[2].short_name,
+            detailResult.result.address_components[3].short_name,
+            detailResult.result.address_components[4].short_name,
+            detailResult.result.address_components[5].short_name,
+          ],
           formatted_address: detailResult.result.formatted_address,
           rating: detailResult.result.rating,
           total_ratings: detailResult.result.user_ratings_total,
